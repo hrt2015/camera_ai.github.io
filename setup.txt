@@ -1,0 +1,6 @@
+mediapipe
+pandas
+opencv-python-headless
+tensorflow	
+scikit-learn
+python-telegram-bot
